@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/blog/posts/Hello-World/</loc>
+<lastmod>2021-12-28T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>/blog/categories/</loc>
+<lastmod>2022-01-19T20:53:32+05:30</lastmod>
+</url>
+<url>
+<loc>/blog/tags/</loc>
+<lastmod>2022-01-19T20:53:32+05:30</lastmod>
+</url>
+<url>
+<loc>/blog/archives/</loc>
+<lastmod>2022-01-19T20:53:32+05:30</lastmod>
+</url>
+<url>
+<loc>/blog/about/</loc>
+<lastmod>2022-01-19T20:53:32+05:30</lastmod>
+</url>
+<url>
+<loc>/blog/</loc>
+</url>
+<url>
+<loc>/blog/tags/test/</loc>
+</url>
+<url>
+<loc>/blog/categories/misc/</loc>
+</url>
+</urlset>
