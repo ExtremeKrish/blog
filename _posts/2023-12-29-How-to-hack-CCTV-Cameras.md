@@ -7,6 +7,7 @@ date: 2023-12-29 14:54:00 +0530
 ---
 
 #Objective
+
 Our objective is to find vulnerability in CCTV cameras which are hosted online.
 
 #Requirements
@@ -14,4 +15,3 @@ Our objective is to find vulnerability in CCTV cameras which are hosted online.
 • Nmap
 • Python
 • rtspbrute
-#
