@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   Hey There, I like dark mode.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://extremekrish.github.io/blog/'
+url: 'https://extremekrish.github.io'
 
 github:
   username: ExtremeKrish             # change to your github username
