@@ -11,18 +11,21 @@ date: 2023-12-29 14:54:00 +0530
 Our objective is to find vulnerability in CCTV cameras which are hosted online.
 
 ## Requirements
+
 - Terminal/Termux
 - Nmap
 - Python
 - rtspbrute
 
 ## Structure
+
 ![Desktop View](/assets/img/cctv-structure.png){: width="972" height="589" }
 _Structure of CCTV_
 
 The CCTV camera is connected to DVR, and DVR is connected to the router.
 
 ## Let's Go
+
 First of all we have to connect to the router, if you don't know the password you can use 
 <b>Wifite</b> or any other tool , After connecting to the router, open your terminal and install nmap using following command: 
 ```bash
@@ -50,7 +53,9 @@ The most important protocol is rtsp protocol this is the protocol on which the C
 ```
 
 This code will scan all ip's between 192.168.0.0 to 192.168.255.255.
+
 ### Output
+
 ```
 # nmap 192.168.0.0/16
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-03-06 21:00 CET
@@ -70,9 +75,12 @@ Nmap done: 1 IP address (1 host up) scanned in 5.92 seconds
 ```
 > Read also : https://en.m.wikipedia.org/wiki/Private_network
 
+Here we got a list of connected networks, as we can see only 
+
 ## Rest tutorial is under construction 
 
 
 
 ## Warnning
+
 This article is only for education purpose . Aim of these article is that how can secure cctv cameras using strong passwords. Do not use for criminal or another black art purpose. I am not responsible for that.
