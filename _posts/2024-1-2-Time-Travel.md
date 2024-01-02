@@ -3,7 +3,7 @@ title: Time Travel
 author: Krish Vishwakarma
 tags: experiences
 categories: Personal Life
-date: 2024-01-02 21:13:00 +0530
+date: 2024-1-2 21:13:00 +0530
 ---
 
 Yo Wassup, As you guys know I'm in my way of telling life experiences that happened between two years since I was inactive,
