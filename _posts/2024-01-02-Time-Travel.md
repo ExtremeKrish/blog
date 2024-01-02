@@ -2,7 +2,7 @@
 title: Time Travel
 author: Krish Vishwakarma
 tags: experiences
-categories: Personal Life
+categories: [Personal Life]
 date: 2024-01-02 18:13:00 +0530
 ---
 
