@@ -59,7 +59,7 @@ This code will scan all ip's between 192.168.0.0 to 192.168.255.255.
 ```
 # nmap 192.168.0.0/16
 Starting Nmap 7.80 ( https://nmap.org ) at 2020-03-06 21:00 CET
-Nmap scan report for Archer.lan (192.168.0.1)
+Nmap scan report for Archer.lan (192.168.0.22)
 Host is up (0.0046s latency).
 Not shown: 995 closed ports
 PORT      STATE SERVICE
@@ -75,9 +75,27 @@ Nmap done: 1 IP address (1 host up) scanned in 5.92 seconds
 ```
 > Read also : https://en.m.wikipedia.org/wiki/Private_network
 
-Here we got a list of connected networks, as we can see only 
+Here we got a list of connected networks, as we can see only one network is connected i.e. 
+`192.168.0.22` and it's DVR's IP address for sure.Now guess what, if we input that ip in aur browser, it'll take up to the login panel of cctv camera streaming, now the **GAME IS OVER** , we just need to bruteforce on the admin panel and then we can see camera footage with our own eyes.
+## Bruteforcing Admin Panel
+Now, we'll install **rtspbute** which is a bruteforcing tool for cctvs under rtsp protocol.
+> See here : https://pypi.org/project/rtspbrute/
 
-## Rest tutorial is under construction 
+Now run the command in your terminal: `pip install rtspbrute`
+### Requirements
+- python (> 3.6)
+- av
+- Pillow
+- rich
+
+Now make a file named `hosts.txt` and write the IP address of DVR and save it, then run the following command :
+```
+$ rtspbrute -t hosts.txt -p 554 -d
+```
+-t means the target ip's in filename hosts.txt and -d means debug logs.
+
+## Well Done
+You'll get the username & password, you rocked up, now login and get the Public IP and then see everything sitting in your house. Bye Bye everyone we'll come again with more hacking tutorials, See Ya!
 
 
 
