@@ -10,9 +10,10 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+- type: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/extreme_krish"
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
