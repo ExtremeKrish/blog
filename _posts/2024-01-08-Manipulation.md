@@ -1,5 +1,5 @@
 ---
-title: Dump
+title: Manipulation
 author: Krish Vishwakarma
 tags: manipulation
 categories: [Personal Life]
