@@ -2,7 +2,7 @@
 title: Manipulation
 author: Krish Vishwakarma
 tags: manipulation
-categories: [Personal Life]
+categories: [misc]
 date: 2024-01-08 23:59:00 +0530
 ---
 Here are some examples of psychological manipulation techniques:
