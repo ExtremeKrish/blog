@@ -10,13 +10,13 @@ date: 2024-01-13 19:45:00 +0530
 
 Multiverse, according to Hindu scripture is a collection of infinite universes floating in the cosmic sea known as the **KARNA ocean**. All the possible timelines of these universes are observed by **Maha Vishnu**.
 
-#### Now there is a strong mentioned in bhagvata purana in which Bhagavata Purana, Shri Krishna directly enlightened us with the concept of Multiverse via Brahma Ji:
+ > Now there is a strong mentioned in bhagvata purana in which Bhagavata Purana, Shri Krishna directly enlightened us with the concept of Multiverse via Brahma Ji:
 
 Brahma Ji, The creator of our Universe (Brahmand) once tried to test Shri Krishna when Krishna was playing with his friends and calves grazing on the field. Brahma Ji kidnapped all His friends and cattle and took them to Brahma Lok (house of Brahma) and hid them there. Shri Krishna, being the Almighty, understood the complete situation and He copied himself in the form of all His missing friends and cows so that no one gets to know that they are originally missing which otherwise would have created chaos in the village.
 
 After a year, Brahma Ji returned to the same village to get the whereabouts of the situation but he was shocked to see the same children and cattle whom he had kidnapped were playing there cheerfully. He was in a completely curious state that how can normal beings stay in both Brahma Lok as well as on the Earth at the same time. Brahma Ji, driven by his overconfidence, understood that it was a magic trick by the Almighty and asked him that how it was possible.
 
-Shri Krishna then soulfully closed His eyes and Brahma Ji saw an uncountable number of other Brahmas in all forms of existence floating above the ground. Some had 10 heads, some 100 while some had thousands of them and they were all worshipping The Almighty together. Shri Krishna then politely told Brahma Ji, that he is only the creator of this Universe but there are other infinite Universes each having their own creator and each maintaining their own birth and death cycle.
+Shri Krishna then soulfully closed His eyes and Brahma Ji saw an **uncountable number of other Brahmas** in all forms of existence floating above the ground. Some had **10 heads, some 100 while some had thousands of them** and they were all worshipping The Almighty together. Shri Krishna then politely told Brahma Ji, that he is only the creator of this Universe but there are **other infinite Universes** each having their own creator and each maintaining their own birth and death cycle.
 
 ## 10 DIMENSIONS OF THE UNIVERSE
 We all are living in this 3D world where we are able to experience only the stuff that we can feel via our senses. But according to the Puranas, there are 10 dimensions which are as follows:
@@ -45,6 +45,10 @@ The ninth dimension is Vaikunth Loka – where the trilateral expansion of Naray
 #### Tenth Dimension
 The tenth dimension is Madhurya Dhama which contains all higher spiritual worlds. Here God of all Gods exists. GOLOK Dham exists in this level of dimension where Lord Shri Krishna actually resides.
 
+> Dimension (also known as realm) A discrete region of reality containing space, matter, and energy. The universe is the dimension that Earth shares with other planets, stars, and galaxies. Earth-like dimensions possess physical characteristics and natural laws similar to that of Earth. Alien dimensions differ in their physical properties and laws, while mystical dimensions are primarily governed by the arcane tenets of magic.
+
+![Virat Roop](assets/img/virat-roop.jpg)
+
 ## MULTIVERSE AND MULTIDIMENSIONS – INTO THE BHAGAVAD GITA:
 
 <blockquote>
@@ -59,6 +63,7 @@ shri-bhagavan uvacha
 pashya me partha rupani shatasho ’tha sahasrashah
 nana-vidhani divyani nana-varnakritini cha
 </blockquote>
+
 - Lord Krishna offers a glimpse of multiple cosmic creations and annihilations to his disciple Arjun; different universes are located in different parts of the cosmic body of Krishna.
 - Arjun says that he sees Lord’s infinite form in every direction, with countless arms, stomachs, faces, and eyes. Lord Krishna asks him to behold and see His hundreds and thousands of wonderful forms of various shapes, sizes, and colors. Here the numbers are approximated to hundreds and thousands which sums up to infinity depicting the existence of infinite parallel Universes of which Lord Krishna is the Supreme Creation.
 - Krishna, although being an avatar of Vishnu, takes birth in the original form as the Supreme Personality of Godhead. Brahma, Vishnu, Shiva have specific duties and purposes but Supreme Lord cannot have just a single purpose. Therefore though Vishnu is the first God of cosmic creation, Krishna is the supreme God (God of all Gods). Therefore Krishna is there before time. He is the source of all spiritual worlds and cosmic worlds thus residing in the tenth dimension.
