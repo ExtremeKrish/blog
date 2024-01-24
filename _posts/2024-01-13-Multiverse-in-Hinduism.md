@@ -8,7 +8,7 @@ date: 2024-01-13 19:45:00 +0530
 > This answer is taken from here [Quora](https://www.quora.com/What-did-Lord-Krishna-say-about-the-parallel-universe-and-multiverse-5-000-years-ago/answer/Red-Hood-290?ch=10&oid=370488926&share=66efca3b&srid=hwuE2C&target_type=answer)
 
 
-Multiverse, according to Hindu scripture is a collection of infinite universes floating in the cosmic sea known as the **KARNA ocean**. All the possible timelines of these universes are observed by **Maha Vishnu**.
+Multiverse, according to Hindu scripture is a collection of infinite universes floating in the cosmic sea known as the **KARNA Ocean**. All the possible timelines of these universes are observed by **Maha Vishnu**.
 
  > Now there is a strong mentioned in bhagvata purana in which Bhagavata Purana, Shri Krishna directly enlightened us with the concept of Multiverse via Brahma Ji:
 
