@@ -54,9 +54,8 @@ As you can see, manipulations can take many forms and be used in different ways,
 - When you’re saying something that is very serious, look straight into their eyes and don’t look away (but blink, the idea is not to look like a psychopath).
 - Complement somebody about how impressive is what they are doing for you. This is the oldest trick in the world, except if you ask a question. People love to talk about themselves. Asking about how they learned to do that keeps them bragging while you get your stuff done :)
 - This is one of my favorites. When Obama was debating Mitt Romney, there’s this moment when Romney brings up Obama’s pension. While he’s doing this, Obama ignores him, smiles and forces Romney to repeat the question several times. This is an amazing domination technique - it made Romney seem like he was begging for attention.
-
-Another one about dominance, if you start talking to somebody, get them engaged and then in the middle ask for his or her name again, as if you forgot. It puts people very uncomfortable around you, but keep in mind this might be not so cool if you don’t do it naturally.
-This one is to screw someone else in an argument. When somebody finishes talking, don’t answer. They are probably going to keep talking to fill the silence, which will make them look like they are not in control of the conversion.
+- Another one about dominance, if you start talking to somebody, get them engaged and then in the middle ask for his or her name again, as if you forgot. It puts people very uncomfortable around you, but keep in mind this might be not so cool if you don’t do it naturally.
+- This one is to screw someone else in an argument. When somebody finishes talking, don’t answer. They are probably going to keep talking to fill the silence, which will make them look like they are not in control of the conversion.
 
 ### What are some dumbest psychology tricks that actually work?
 - Compliment someone's eyes when you first meet, by doing so you're going to force the person to look at your eyes a brief moment, but it would be enough for that person to notice you, when before it could have been a polite gesture.
