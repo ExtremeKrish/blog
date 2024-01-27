@@ -61,6 +61,8 @@ As you can see, manipulations can take many forms and be used in different ways,
 - Compliment someone's eyes when you first meet, by doing so you're going to force the person to look at your eyes a brief moment, but it would be enough for that person to notice you, when before it could have been a polite gesture.
 - Still, in the first impression moments, use the first name of the person straight away, by doing so you're connected with more intimacy.
 - And when talking with that new person, ask a question and stay silent until you have a full answer, people really can't stand the noiseless gap and will talk much more than what they intended.
+
+### Psychological Facts
 - Asking someone to do you a favor makes him like you more.
 - If you do not move for 15 minutes without a purpose, you will fall asleep.
 - Doing things that scares you will make you happier.
@@ -98,7 +100,7 @@ As you can see, manipulations can take many forms and be used in different ways,
 ## These are just a few small little gimmicks and such:
 
 
-- Whenever you need a favor, start with “I need your help…” because it makes the other person feel wanted, and more likely they feel obligated to satisfy your needs.
+- [x] Whenever you need a favor, start with “I need your help…” because it makes the other person feel wanted, and more likely they feel obligated to satisfy your needs.
 - When trying to convince someone of one of your opinions, nod while saying it like you can’t imagine any other idea.
 - When meeting people for the first time, try to notice their eye color. It increases eye contact by 67% and is less nerve-racking.
 - If you want someone to stop talking but you don’t want to be rude, look at their shoulders. It’s far enough to notice the lack in eye contact but it’s still awkward to talk if the other person isn’t focused on you.
@@ -110,7 +112,7 @@ As you can see, manipulations can take many forms and be used in different ways,
 - If you work at a customer service place or something, put a mirror behind you. It makes your customers more self-aware.
 - You are instantly 88% more attractive if you manage to make people laugh.
 
-### A little bit more
+### Persuasion Techniques
 
 - If you work in customer service, put a mirror behind you at the counter. This way angry customers who approach you will have to see themselves in the mirror behind you and the chances of them behaving irrationally lowers significantly
 - Thank people for a trait you want from them. For example, instead of telling a customer "I'm sorry for your wait", tell them "thank you for your patience and understanding"
