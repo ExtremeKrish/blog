@@ -1,12 +1,11 @@
 ---
-title: Manipulation
+title: Manipulation Mastery
 author: Krish Vishwakarma
 tags: manipulation
 categories: [Psychology]
 date: 2024-01-08 23:59:00 +0530
 ---
-Here are some examples of psychological manipulation techniques:
-
+## Dark Psychology
 #### Gaslighting
 This technique involves manipulating a person into doubting their own sanity. The manipulator will deny the reality of the victim's experiences and make them question their own memory and perception of events. For example, a manipulator may tell their partner that they never said or did something, even though the victim knows they did.
 
@@ -47,7 +46,7 @@ This is a form of manipulation that is done in a subtle or indirect way. It can 
 This is a form of manipulation where the manipulator uses fear to control and manipulate the victim. The manipulator may threaten the victim, or make them believe that something bad will happen if they don't comply with their demands
 
 As you can see, manipulations can take many forms and be used in different ways, and not all of them are harmful or abusive.
-### Psychology Tricks
+## Psychology Tricks
 - When persuading somebody, use their name in the middle of the request, especially if they’re not very close to you. This is an amazing trick. It works because people feel the need to be acknowledged. Once they are, they will be way more unlikely to be disagreeable with you.
 - Touching the shoulder. That’s the same reasoning as before, but more bold. Also, more effective if it works. It’s all about proximity and acknowledgment.
 - When you want to convince somebody else, if you nod your head some times while talking, that person will be more likely to accept what you’re saying as true.
@@ -57,12 +56,12 @@ As you can see, manipulations can take many forms and be used in different ways,
 - Another one about dominance, if you start talking to somebody, get them engaged and then in the middle ask for his or her name again, as if you forgot. It puts people very uncomfortable around you, but keep in mind this might be not so cool if you don’t do it naturally.
 - This one is to screw someone else in an argument. When somebody finishes talking, don’t answer. They are probably going to keep talking to fill the silence, which will make them look like they are not in control of the conversion.
 
-### What are some dumbest psychology tricks that actually work?
+## What are some dumbest psychology tricks that actually work?
 - Compliment someone's eyes when you first meet, by doing so you're going to force the person to look at your eyes a brief moment, but it would be enough for that person to notice you, when before it could have been a polite gesture.
 - Still, in the first impression moments, use the first name of the person straight away, by doing so you're connected with more intimacy.
 - And when talking with that new person, ask a question and stay silent until you have a full answer, people really can't stand the noiseless gap and will talk much more than what they intended.
 
-### Psychological Facts
+## Psychological Facts
 - Asking someone to do you a favor makes him like you more.
 - If you do not move for 15 minutes without a purpose, you will fall asleep.
 - Doing things that scares you will make you happier.
@@ -112,7 +111,7 @@ As you can see, manipulations can take many forms and be used in different ways,
 - If you work at a customer service place or something, put a mirror behind you. It makes your customers more self-aware.
 - You are instantly 88% more attractive if you manage to make people laugh.
 
-### Persuasion Techniques
+## Persuasion Techniques
 
 - If you work in customer service, put a mirror behind you at the counter. This way angry customers who approach you will have to see themselves in the mirror behind you and the chances of them behaving irrationally lowers significantly
 - Thank people for a trait you want from them. For example, instead of telling a customer "I'm sorry for your wait", tell them "thank you for your patience and understanding"
@@ -126,7 +125,7 @@ As you can see, manipulations can take many forms and be used in different ways,
 - If someone says they have the hiccups, ask them to prove it. 9/10 times, their hiccups will disappear. Having to hiccup on command will simply trick your diaphragm into not hiccuping
 - If you need to remember something, think about it whilst doing something noticeably unusual, this will pair the memory with the "something" so that when it is noticed later on, it will trigger that particula memory
 
-### Here are 14 Manipulation tactics you can study.
+## Here are 14 Manipulation tactics you can study.
 
 #### Flattery
 - compliment other to "butter them up" and get them in good mood for requests. Hone in on their Insecurities and provide them the reassurance they need for better effect.
@@ -199,56 +198,52 @@ For a effective manipulation tactic, have insight on what person believes about 
 
 ### Discovering Each man's thumbscrew.
 
-1) Pay Attention to Gestures and Unconscious Signals
+1. Pay Attention to Gestures and Unconscious Signals
+    - The key is not only what you look for but where and how you look.
+    - Train yourself to listen.
+    - Start by always seeming interested—the appearance of a sympathetic ear will spur anyone to talk.
+    - Share a secret with them. It can be completely made up, or it can be real but of no great importance to you· This will usually elicit a response that reveals a weakness.
+    - Train your eye for details
+    - How someone tips a waiter.
+    - What delights a person
+    - Hidden messages in clothes.
+    - Find people's idols, the things they worship and will do anything to get—perhaps you can be the supplier of their fantasies.
 
-A) The key is not only what you look for but where and how you look.
-B) Train yourself to listen.
-C) Start by always seeming interested—the appearance of a sympathetic ear will spur anyone to talk.
-D) Share a secret with them. It can be completely made up, or it can be real but of no great importance to you· This will usually elicit a response that reveals a weakness.
-E) Train your eye for details
-· How someone tips a waiter.
-· What delights a person
-· Hidden messages in clothes.
-F) Find people's idols, the things they worship and will do anything to get—perhaps you can be the supplier of their fantasies.
+2. Find the Helpless Child - Most weaknesses begin in childhood, before the self builds up compensatory defenses.
+    - Perhaps the child was pampered or indulged in a particular area.· If they reveal a secret taste, a hidden indulgence, indulge it. In either case they will be unable to resist you. The indulgence or the deficiency may be buried but never disappears.
+    - Perhaps a certain emotional need went unfulfilled · If your victims or rivals went without something important, such as parental support, when they were children, supply it, or its facsimile
+    - Learn about a childhood need; a powerful key to a person's weakness. One sign of this weakness is that when you touch on it the person will often act like a child. Be on the lookout, then, for any behavior that should have been outgrown.
 
-2) Find the Helpless Child - Most weaknesses begin in childhood, before the self builds up compensatory defenses.
-1. Perhaps the child was pampered or indulged in a particular area.· If they reveal a secret taste, a hidden indulgence, indulge it. In either case they will be unable to resist you. The indulgence or the deficiency may be buried but never disappears.
-2. Perhaps a certain emotional need went unfulfilled · If your victims or rivals went without something important, such as parental support, when they were children, supply it, or its facsimile
-3. Learn about a childhood need; a powerful key to a person's weakness. One sign of this weakness is that when you touch on it the person will often act like a child. Be on the lookout, then, for any behavior that should have been outgrown.
+3. Look for Contrasts - An overt trait often conceals its opposite.
+    - People who thump their chests are often big cowards; a prudish exterior may hide a lascivious soul
+    - The uptight are often screaming for adventure; the shy are dying for attention.
+    - Probe beyond appearances, you will often find people's weaknesses in the opposite of the qualities they reveal to you.
 
-3) Look for Contrasts - An overt trait often conceals its opposite.
-1. People who thump their chests are often big cowards; a prudish exterior may hide a lascivious soul
-2. The uptight are often screaming for adventure; the shy are dying for attention.
-3. Probe beyond appearances, you will often find people's weaknesses in the opposite of the qualities they reveal to you.
+4. Find the Weak Link - Sometimes in your search for weaknesses it is not what but who that matters.
+    - There is often someone behind the scenes who has a great deal of power, a tremendous influence over the person superficially on top. · These behind-the-scenes powerbrokers are the group's weak link: Win their favor and you indirectly influence the king.
+    - Alternatively, even in a group of people acting with the appearance of one will. Find the one person who will bend under pressure.· When a group under attack closes ranks to resist an outsider—there is always a weak link in the chain.
 
-4) Find the Weak Link - Sometimes in your search for weaknesses it is not what but who that matters.
-1. There is often someone behind the scenes who has a great deal of power, a tremendous influence over the person superficially on top. · These behind-the-scenes powerbrokers are the group's weak link: Win their favor and you indirectly influence the king.
-2. Alternatively, even in a group of people acting with the appearance of one will. Find the one person who will bend under pressure.· When a group under attack closes ranks to resist an outsider—there is always a weak link in the chain.
+5. Fill the Void - The two main emotional voids to fill are insecurity and un-happiness.
+    - The insecure are suckers for any kind of social validation; as for the chronically unhappy, look for the roots of their unhappiness.
+    - The insecure and the unhappy are the people least able to disguise their weaknesses. · The ability to fill their emotional voids is a great source of power, and an indefinitely prolonged one.
 
-5) Fill the Void - The two main emotional voids to fill are insecurity and un-happiness.
-1. The insecure are suckers for any kind of social validation; as for the chronically unhappy, look for the roots of their unhappiness.
-2. The insecure and the unhappy are the people least able to disguise their weaknesses. · The ability to fill their emotional voids is a great source of power, and an indefinitely prolonged one.
-
-6) Feed on Uncontrollable Emotions - The uncontrollable emotion can be a paranoid fear.
-1. Fear disproportionate to the situation.
-2. Or any base motive such as lust, greed, vanity, or hatred. · People in the grip of these emotions often cannot control themselves, and you can do the controlling for them.
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. Feed on Uncontrollable Emotions - The uncontrollable emotion can be a paranoid fear.
+    - Fear disproportionate to the situation.
+    - Or any base motive such as lust, greed, vanity, or hatred. · People in the grip of these emotions often cannot control themselves, and you can do the controlling for them.
 
 
-PERSUASION TECHNIQUES
+## PERSUASION TECHNIQUES
 
-1)Scarcity - Tell them how scarce the offer is and that its a one time deal .
-2)Being Credible - Show your Credible by providing credibility. Before hand of trying to persuade say how experienced you are at matter, how long you've been studying, how you know what you do. showing credibility.
-3)Reciprocity - rule of thumb is that people return favors so for greater return of favor. Be the first to give and ensure what you give is personalized and unexpected.
+1. Scarcity - Tell them how scarce the offer is and that its a one time deal .
+2. Being Credible - Show your Credible by providing credibility. Before hand of trying to persuade say how experienced you are at matter, how long you've been studying, how you know what you do. showing credibility.
+3. Reciprocity - rule of thumb is that people return favors so for greater return of favor. Be the first to give and ensure what you give is personalized and unexpected.
 STEP #1 - 4)Liking - people like others who: 1) Similar 2) Pay Compliments 3) Are Cooperative
 (If people like you they'll be more compliant)
 When trying to sell/persuade show 1) Similarities
 When trying to sell/persuade pay 2) Compliments
 When trying to sell/persuade be 3) Cooperative
-5) technique - End persuasion with a “…it’s good for you!” or “…it’s fun!” are great ways to reframe the request and remind them that complying with your suggestion is worth it.
-6) technique - Has someone been repeatedly avoiding your requests for their? Try “Even one second of your time would be fantastic”. Trying to get people to sponsor your charity fun run? Try “Every little penny helps”.
+5. technique - End persuasion with a “…it’s good for you!” or “…it’s fun!” are great ways to reframe the request and remind them that complying with your suggestion is worth it.
+6. technique - Has someone been repeatedly avoiding your requests for their? Try “Even one second of your time would be fantastic”. Trying to get people to sponsor your charity fun run? Try “Every little penny helps”.
 
 ## 33 Ways People try to Manipulate You
 
@@ -306,15 +301,16 @@ Sometimes a picture – or a shitty facial expression – paints a thousand word
 
 Beware of any of the following aggressive/condescending facial expressions used to try to intimidate and manipulate you into backing down and giving in:
 
-Condescending head tilt
-Condescending look over glasses
-Dirty looks and death stares
-Extended eye contact without blinking or saying anything
-Eye rolling
-Looks of anger, disgust, hatred, hostility, judgement, outrage etc.
-Raising one eyebrow
-Shaking their head
-Smirking/winking/grinning with a condescending, smug look of superiority that says “I know something you don’t know…” or “I’m smarter than you”
+- Condescending head tilt
+- Condescending look over glasses
+- Dirty looks and death stares
+- Extended eye contact without blinking or saying anything
+- Eye rolling
+- Looks of anger, disgust, hatred, hostility, judgement, outrage etc.
+- Raising one eyebrow
+- Shaking their head
+- Smirking/winking/grinning with a condescending, smug look of superiority that says “I know something you don’t know…” or “I’m smarter than you”
+
 ### 29. BEING A BITCH OR A BULLY
 
 Why do people bully? Because it works. Most people are terrified of conflict and confrontation and will do anything to avoid it, and that’s where bitches and bullies thrive.
@@ -366,19 +362,20 @@ Again you want to ask this question calmly and matter of factly, with a facial e
 The good old silent treatment.
 
 If you can’t get what you want, ignore ’em.
+
 ### 25. IGNORING YOU/PLAYING HARD TO GET
 
 Similar to the silent treatment is when someone makes a conscious effort to ignore you and/or play hard to get.
 
 Watch out for anyone who tries any of the following tactics:
 
-Acknowledges everyone in the room but makes a point of ignoring you
-Acts bored/disinterested/inconvenienced whenever you try to speak to them as if they had more important things to deal with
-Doesn’t respond to any of your comments, questions, emails, phone calls or messages, and is always unavailable or ‘too busy’ whenever you need to speak to them
-Leaves the room when you enter it
-Purposely avoids eye contact with you whenever you speak to them
-Refuses to acknowledge your existence
-My advice to you is if someone ignores you – ignore them. If they take one step back from you, take ten steps back from them. Or if you need to speak to them, call them on it and ask them what their problem is.
+- Acknowledges everyone in the room but makes a point of ignoring you
+- Acts bored/disinterested/inconvenienced whenever you try to speak to them as if they had more important things to deal with
+- Doesn’t respond to any of your comments, questions, emails, phone calls or messages, and is always unavailable or ‘too busy’ whenever you need to speak to them
+- Leaves the room when you enter it
+- Purposely avoids eye contact with you whenever you speak to them
+- Refuses to acknowledge your existence
+- My advice to you is if someone ignores you – ignore them. If they take one step back from you, take ten steps back from them. Or if you need to speak to them, call them on it and ask them what their problem is.
 
 ### 24. GUILT TRIPS
 
@@ -428,26 +425,27 @@ When someone is afraid of speaking up and saying no, or is resentful of having t
 
 Passive aggressive behaviors:
 
-Avoiding/ignoring/leaving someone out
-Avoiding responsibility
-Agreeing to help and then doing a crappy job because you didn’t want to do it
-Constantly being late and making others wait for you (I hate this one)
-Disguised insults “That color actually looks good on you” or “Nice shoes”
-Dragging your heels and being unnecessarily difficult
-‘Forgetting’ to do something on purpose
-Playing dumb
-Pretending they don’t understand
-Procrastinating
-Purposely avoiding emails/phone calls/messages
-Refusing to commit to anything or give a straight answer
-Resistance
-Sarcasm
-Saying one thing/doing another (Sending mixed messages)
-Shaking of the head
-Sighing
-Silent treatment
-Stubbornness
-Sulking I.e: Man: “What’s wrong?” Woman: “Nothing”
+- Avoiding/ignoring/leaving someone out
+- Avoiding responsibility
+- Agreeing to help and then doing a crappy job because you didn’t want to do it
+- Constantly being late and making others wait for you (I hate this one)
+- Disguised insults “That color actually looks good on you” or “Nice shoes”
+- Dragging your heels and being unnecessarily difficult
+- ‘Forgetting’ to do something on purpose
+- Playing dumb
+- Pretending they don’t understand
+- Procrastinating
+- Purposely avoiding emails/phone calls/messages
+- Refusing to commit to anything or give a straight answer
+- Resistance
+- Sarcasm
+- Saying one thing/doing another (Sending mixed messages)
+- Shaking of the head
+- Sighing
+- Silent treatment
+- Stubbornness
+- Sulking I.e: Man: “What’s wrong?” Woman: “Nothing”
+
 ### 20. PURPOSELY BEING DIFFICULT
 
 Some people just have difficult personalities, and if they sense you want their approval/validation/friendship, they’ll purposely withhold it in an attempt to manipulate you.
@@ -627,13 +625,13 @@ Propaganda is just as effective and powerful today, as it was when it was used b
 
 Whatever your weakness is:
 
-Fear
-Greed
-Lust
-Money
-Power
-Pride
-Sex
+- Fear
+- Greed
+- Lust
+- Money
+- Power
+- Pride
+- Sex
 Some people will purposely try to use it against you in order to manipulate you.
 
 If they know you suffer from anxiety, they’ll constantly try to fear monger you. If you know you have a big ego, they’ll constantly tell you how great you are.
