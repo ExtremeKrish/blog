@@ -126,53 +126,51 @@ As you can see, manipulations can take many forms and be used in different ways,
 - If someone says they have the hiccups, ask them to prove it. 9/10 times, their hiccups will disappear. Having to hiccup on command will simply trick your diaphragm into not hiccuping
 - If you need to remember something, think about it whilst doing something noticeably unusual, this will pair the memory with the "something" so that when it is noticed later on, it will trigger that particula memory
 
-## Here are 14 Manipulation tactics you can study.
+### Here are 14 Manipulation tactics you can study.
 
-# Flattery
+#### Flattery
 - compliment other to "butter them up" and get them in good mood for requests. Hone in on their Insecurities and provide them the reassurance they need for better effect.
 
-# Favor/Gift 
+#### Favor/Gift 
 - give favors and gifts so down the road they owe me for what I have done for them.
 
-# False Intimacy 
+#### False Intimacy 
 - pretend to be interested in everything they are (music, hobbies, people....) Tell Fake secrets to build trust and loyalty and to allow them to in return tell secrets about themselves. Give them hat they want / need (E) , Say what they want to hear , [works best with new friend]
 
-# False Expectations
+#### False Expectations
 - pretend things are a certain way (way I want them) already making decision before other can get to thinking. (Ex. alright then see you @ 8)
 
-# Silence treatment
+#### Silence treatment
 - give random and unexpected silent treatment. To throw them off and could even make the empathetic or Emotional feel as if they did something wrong and make up for it with gifts or overt kindness, which indicates you have them wrapped around your finger
 
-# Over asking 
+#### Over asking 
 - ask for something major for 1st request knowing it'll get denied . then butter it down with a minor more compatible request (the one you wanted all along)
 
-# False Equivalence 
+#### False Equivalence 
 - False equivalence is when the manipulator uses a logical fallacy to imply that if you do (or don’t do) one specific thing, that it means something else, usually that you have a generally undesirable trait.
 
-# Guilt / Shaming 
+#### Guilt / Shaming 
 - make victim feel guilty for what he has done, or isn't going to do. [[(Gather intelligence for guilt trips, do request]]) if request turned down, make feel guilty with the intelligence that's gathered
 
-# Fake normal 
+#### Fake normal 
 - say the thing there doing is so normal everyone is doing it,, or so NOT normal that nobody does it. They'll feel inclined to do the request.
 
-# Subject Switch 
+#### Subject Switch 
 - suddenly bring up Hot gossip or Interesting news, genuine interests, whenever you don't want to talk about something
 
-# Reactions / Intention test 
+#### Reactions / Intention test 
 - create a story to tell others to see how they react to such type of story. Test intentions .
 
-# Random / unexpected behavior 
+#### Random / unexpected behavior 
 - keep people on tip of their toes by never revealing the reasons behind your actions. (Nice/Mean randomly with no patterns)
 
-# Fill Emotional needs 
+#### Fill Emotional needs 
 - fill their Insecurities and unhappiness and find the root for them both. Provide them the reassurance they need. Give people what they want and say what they want to hear.
 
-# Over-playing 
+#### Over-playing 
 - When someone asks for something, use something along the lines "oh come on, is that what you REALLY WANT" Over play the request from person and tweak it to your advantage to get out of requests or to persuade
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<hr>
 
 PLAN IN ADVANCE, if there's double shift, and need your kids watched or needing a car ride , or anything. Butter them up for the duration by helping them with favors, flattery ect... So when the time comes you can voice all that you've done for them. And they'll feel inclined to do so.
 
@@ -187,24 +185,19 @@ extremely trusting people, people who are generous with everything, those who ar
 For a effective manipulation tactic, have insight on what person believes about them selves and what they think about themselves and tweak it to your advantage. Some universal ones that can apply to everyone are Cool , Hot/sexy , smart ... Ones that apply to specific people means you would have to know the person and what beliefs he has, and what they thinks about themselves and study them . some examples might be like: Confident, Persuasive, Hardworking, Funny... Their all more `narrowed down` to the particular (certain people) . Now what I mean when I say "Tweak it to your advantage" if you wanted something out of somebody, you could use these "beliefs" to your advantage if they gave you any shit... Ex "want friend to go to movies and he says " he can't" you could use the belief of Cool and Smart knowing him for a while, you can use this to your advantage in this situation by saying " if your cool you would come along, and tickets are half off so don't be "stupid" and turn down this cheap fun night " and tweak it to however it sounds best .
 
 
-Study people's:
+### Study people's:
 
-Beliefs (about themselves)
-Likes
-Reactions (how they get persuaded , reactions to different situations/ circumstances)
-*What makes them happy
-Weakness/Fears
-*Gather Guilt Intelligence / dirt on others
-Establish baseline behavior & compare to Circumstances /situations and other people
-Emotional Triggers
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Beliefs (about themselves)
+- Likes
+- Reactions (how they get persuaded , reactions to different situations/ circumstances)
+- What makes them happy
+- Weakness/Fears
+- Gather Guilt Intelligence / dirt on others
+- Establish baseline behavior & compare to Circumstances /situations and other people
+- Emotional Triggers
 
 
-
-Discovering Each man's thumbscrew.
+### Discovering Each man's thumbscrew.
 
 1) Pay Attention to Gestures and Unconscious Signals
 
@@ -263,15 +256,11 @@ Do you hate manipulative behavior as much as I do? Bitches and bullies, sociopat
 
 If you hate manipulative behavior as much as I do, then this article is for you. Because I’m going to expose these manipulative tactics so that you can recognize them when they arise.
 
-# MANIPULATION
-
-noun
-
-“Control or influence (a person or situation) cleverly or unscrupulously” – Oxford Dictionary
-
-“To control or play upon by unfair, or insidious means especially to one’s own advantage, so as to serve one’s purpose” – Merriam-Webster
-
-Here are 33 ways people try to manipulate you…
+> ###  MANIPULATION
+> noun
+> “Control or influence (a person or situation) cleverly or unscrupulously” – Oxford Dictionary
+> “To control or play upon by unfair, or insidious means especially to one’s own advantage, so as to serve one’s purpose” – Merriam-Webster
+> Here are 33 ways people try to manipulate you…
 
 ###  33. ACTING AS IF THEY WERE ABOVE YOU
 
