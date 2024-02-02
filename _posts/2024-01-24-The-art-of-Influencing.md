@@ -15,9 +15,10 @@ Remember that our motive will not be to be appreciated or respected in return, b
  
 Okay, let's finalize with "All we have to do is give them that social pleasure, and they will be influenced." Remember, never make a few blunders when chasing them; never do anything you would not like for yourself, such as never arguing with them, accepting their words even if you know more than them, and never criticizing them. If I sit and write about the do's and don'ts, I'll barely fill a few pages, and no one will follow these directions like robots; after all, we're all humans.
 So here's the significant concept: "When you're not sure whether something is favorable or adverse, switch the characters and imagine what would happen if it happened to me. "What shall I do?" and you will undoubtedly receive your answer.
- 
-Remember that as a rational human, you should never indulge in such pleasure since "appreciation is a slow poison that affects all humans."
+> For more reading please buy the book. 🙃
 
-While learning the art of persuasion, you will undoubtedly make some stupid mistakes because, after all, we are all humans who enjoy showing off our accomplishments to others. If we had learned anything new, we wanted to share it with our closest friends; this is the biggest error we ever make. Let me go right to the point: never tell anyone, especially your best friends, family, and partner, that you are studying human behavior, dark psychology, or manipulation; Because you don't know when the scenario may change, and you need to try some psychological tricks on them, and they'll already be aware of it because you told them.
+# Remember that as a rational human, you should never indulge in such pleasure since "appreciation is a slow poison that affects all humans."
+
+# While learning the art of persuasion, you will undoubtedly make some stupid mistakes because, after all, we are all humans who enjoy showing off our accomplishments to others. If we had learned anything new, we wanted to share it with our closest friends; this is the biggest error we ever make. Let me go right to the point: never tell anyone, especially your best friends, family, and partner, that you are studying human behavior, dark psychology, or manipulation; Because you don't know when the scenario may change, and you need to try some psychological tricks on them, and they'll already be aware of it because you told them.
  
  
