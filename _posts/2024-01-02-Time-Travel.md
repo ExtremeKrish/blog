@@ -11,4 +11,5 @@ Here is a story of me experiencing a future prediction in my dream that happened
 
 ### Time Travel
 Today I saw a mysterious scientific and human brain analogy dream. I saw a person 'Max' coming to my home towards my house door and started knocking, the sound became louder and then I woke up and saw that someone came to my house in actual and he was knocking. That was usually my grandpa's friend who came early in the morning but the mystery is that _Before he knocked at my door, how I came to know that someone is coming?_ Did I saw the future? It can be humor to someone but for me it's serious, And if he was knocking earlier since my dream started; How the hell my brain created a story by hearing the sound and I didn't even heard the sound.
-I don't know if I have predicting powers but no will believe that I predicted that my crush's father have been doing job in a particular manufacturing industry, And it came up true. Anyways goodbye public, seeya.
+I don't know if I have predicting powers but no will believe that I predicted that my crush's father have been doing job in a particular manufacturing industry, And it came up true. 
+Anyways , see you in the next one till then peace 🕊️.

@@ -95,7 +95,7 @@ $ rtspbrute -t hosts.txt -p 554 -d
 -t means the target ip's in filename hosts.txt and -d means debug logs.
 
 ## Well Done
-You'll get the username & password, you rocked up, now login and get the Public IP and then see everything sitting in your house. Bye Bye everyone we'll come again with more hacking tutorials, See Ya!
+You'll get the username & password, you rocked up, now login and get the Public IP and then see everything sitting in your house. Bye Bye everyone we'll come again with more hacking tutorials, See you in the next one till then peace 🕊️.
 
 
 
