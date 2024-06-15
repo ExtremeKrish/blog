@@ -6,10 +6,6 @@ categories: [Personal Life]
 date: 2024-06-15 15:23:00 +0530
 ---
 
-I'll correct the spelling mistakes, punctuation errors, and grammatical mistakes and format your story properly.
-
----
-
 # A Shocking Experience
 
 Yo, wassup everyone! As you guys know, I'm on my way to telling life experiences that happened over the two years I was inactive. Here's a story of me experiencing a horrible incident that happened on an unknown date, possibly in August 2023. Here it goes:
