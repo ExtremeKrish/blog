@@ -47,7 +47,6 @@ The tenth dimension is Madhurya Dhama which contains all higher spiritual worlds
 
 > Dimension (also known as realm) A discrete region of reality containing space, matter, and energy. The universe is the dimension that Earth shares with other planets, stars, and galaxies. Earth-like dimensions possess physical characteristics and natural laws similar to that of Earth. Alien dimensions differ in their physical properties and laws, while mystical dimensions are primarily governed by the arcane tenets of magic.
 
-![Virat Roop](assets/img/virat-roop.jpg)
 
 ## MULTIVERSE AND MULTIDIMENSIONS – INTO THE BHAGAVAD GITA:
 
