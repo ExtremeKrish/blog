@@ -56,13 +56,13 @@ Lunch was over, and we had a free period.
 We went to the corridor. Sudeep always used to say, “Just like Pushkar and Anaya have been intimate, Yuvika and Jayesh have probably done it too.” I said, “I don’t believe it.” He replied, “Wait,” then asked me, “Who is Tanmay?” I said, “He’s Yuvika’s uncle’s son.”  
 Then he called Pushkar over and said, “Tell him what happened that day at Tanmay’s house between Yuvika and Jayesh.”  
 
-Pushkar started explaining. He said he was there with Jayesh when Yuvika called, saying no one was home and they could come over. Pushkar said that Jayesh fingered Yuvika, and she moaned. Then Jayesh groped her breasts, kissed her, and … (he didn’t finish and sarcastically rushed through the details).  
+Pushkar started explaining. He said he was there with Jayesh when Yuvika called, saying no one was home and they could come over. Pushkar said that Jayesh...  [_removed_] <!--fingered Yuvika, and she moaned. Then Jayesh groped her breasts, kissed her, and … (he didn’t finish and sarcastically rushed through the details).-->  
 
 I was speechless. Literally. The girl I loved the most, the girl I had once considered my life partner, the one I had only shaken hands with once—today, someone else was groping her breasts. Can you even imagine what I felt when I heard that?  
 
 But guess what? I was still trying to believe in Yuvika. I kept thinking, *Is Sudeep manipulating me? Are these guys making up a story to mess with me? Could this be a joke?* I was hoping they’d eventually laugh it off and say, “Don’t be depressed, we were just fooling around.” But that didn’t happen.  
 
-Sudeep told me he’d even seen a photo (probably shown to him by Pushkar), where Jayesh had Yuvika pinned against a wall, topless, with one hand on her breast while Pushkar clicked the picture.  
+Sudeep told me he’d even seen a photo (probably shown to him by Pushkar), where Jayesh had Yuvika... [_removed_] <!--pinned against a wall, topless, with one hand on her breast while Pushkar clicked the picture. --> 
 
 In that moment, I got a full flashback of my relationship with Yuvika in just a second. I cannot describe in words how I actually felt. I was speechless. I went back to class with them. Jayesh was sitting there, and Arpit asked, “Do you believe it now?” Jayesh started saying, “Bro, you know the truth too…” (he was hoping I’d still see Yuvika as a goddess who’d never do something like this).  
 
