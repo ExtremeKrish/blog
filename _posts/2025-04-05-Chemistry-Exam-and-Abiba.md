@@ -1,5 +1,5 @@
 ---
-title: Chemistry Exam ft Abiba
+title: Chemistry Exam and Abiba
 author: Krish Vishwakarma
 tags: story
 categories: [Personal Life]
