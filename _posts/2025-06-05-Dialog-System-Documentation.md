@@ -1,6 +1,17 @@
+---
+title: Dialog System Documentation
+author: Krish Vishwakarma
+date: 2025-06-05 3:10:00 +0530
+categories: [Web Dev, Tutorial]
+tags: [php, UIUX]
+---
+
 # Dialog System Documentation
 
 ## Overview
+
+<script src="https://gist.github.com/ExtremeKrish/edca745e3fd4228da7acec57a8a6c670.js"></script>
+
 The `dialog.php` file provides a reusable dialog system for PHP applications, including confirm, single prompt, and double prompt dialogs with a modern, minimal UI. It includes CSS styles and a JavaScript `Dialog` class that can be used anywhere in your project after including the file.
 
 ## Installation
