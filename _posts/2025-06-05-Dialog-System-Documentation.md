@@ -9,7 +9,7 @@ tags: [php, UIUX]
 # Dialog System Documentation
 
 ## Overview
-The [`dialog.php`](https://gist.github.com/ExtremeKrish/edca745e3fd4228da7acec57a8a6c670) file provides a reusable dialog system for PHP applications, including confirm, single prompt, and double prompt dialogs with a modern, minimal UI. It supports pre-filled input values with the cursor positioned at the end for editing. Include the file in your PHP project to use the `Dialog` class in JavaScript.
+The `dialog.php` file provides a reusable dialog system for PHP applications, including confirm, single prompt, and double prompt dialogs with a modern, minimal UI. It supports pre-filled input values with the cursor positioned at the end for editing. Include the file in your PHP project to use the `Dialog` class in JavaScript.
 
 ## Installation
 1. Save the `dialog.php` file in your project directory (e.g., `includes/dialog.php`).
