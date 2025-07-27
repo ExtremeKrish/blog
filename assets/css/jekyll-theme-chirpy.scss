@@ -9,8 +9,17 @@
 ';
 
 /* append your custom style below */
-@import url('https://fonts.googleapis.com/css2?family=Geist:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 
 body{
   font-family: "Crimson Pro", serif;
+}
+
+html[data-mode=dark] {
+--main-bg:hsl(228 79% 2%);
+		--mask-bg: hsl(222 55% 5%);
+		--main-border-color: rgb(44, 45, 45);
+		--text-color: hsl(220 100% 98%);
+		--text-muted-color: hsl(220 35% 73%);
+		--text-muted-highlight-color: hsl(220 20% 42%);
 }
